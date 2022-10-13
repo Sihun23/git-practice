@@ -1,0 +1,5 @@
+school
+class
+home
+new
+lecture

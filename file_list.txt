@@ -1,0 +1,12 @@
+total 20K
+-rw-r--r-- 1 owner 197121    0 Sep 26 00:59 Lab4_201933966_양시훈.md
+-rw-r--r-- 1 owner 197121 1.7K Oct 13 20:40 Practice
+drwxr-xr-x 1 owner 197121    0 Oct 14 02:58 again/
+-rw-r--r-- 1 owner 197121  818 Oct 14 02:52 backup_HW3.sql
+-rw-r--r-- 1 owner 197121    0 Oct 14 02:59 file_list
+-rw-r--r-- 1 owner 197121 1.1K Oct 14 01:08 module.sql
+drwxr-xr-x 1 owner 197121    0 Oct 14 02:56 new/
+drwxr-xr-x 1 owner 197121    0 Oct 14 02:57 new_directory/
+-rw-r--r-- 1 owner 197121  818 Oct 13 20:40 p.sql
+-rw-r--r-- 1 owner 197121 1.7K Oct 13 20:40 practice.sql
+drwxr-xr-x 1 owner 197121    0 Oct 14 02:56 transform/

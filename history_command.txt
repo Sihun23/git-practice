@@ -1,0 +1,99 @@
+    1  pwd
+    2  ls
+    3  cd OSS
+    4  cd
+    5  cd GIT BASH
+    6  pwd
+    7  cd GIT_BASH
+    8  ls
+    9  cd.
+   10  cd .
+   11  cd ..
+   12  cd
+   13  cd
+   14  pwd
+   15  cd GIT_BASH
+   16  ls
+   17  ls -l
+   18  ls -lh
+   19  git remote add origin https://github.com/Sihun23/git-practice.git
+   20  git remote add origin https://github.com/Sihun23/git-practice.git
+   21  git init
+   22  ls -lha
+   23  git add
+   24  gid add.
+   25  git status
+   26  history
+   27  ls-lh
+   28  ls -lh
+   29  cat file_list.txt
+   30  ls -lh > file_list.txt
+   31  ls -lh > file_list.txt
+   32  pwd
+   33  cd GIT
+   34  pwd
+   35  cd GIT
+   36  ls
+   37  pwd
+   38  ls-lh
+   39  ls-lh >file.list.txt
+   40  ls -lh > file.list.txt
+   41  cat file_list.txt
+   42  ls-lh >> file_list.txt
+   43  ls -lh >> file_list.txt
+   44  sort <words.txt> soted_words.txt
+   45  cd GIT
+   46  cd
+   47  pwd
+   48  cd /c/GIT
+   49  pwd
+   50  cd Git_Bash
+   51  cd Practice
+   52  pwd
+   53  cp HW3.sql backup_HW3.sql
+   54  [wd
+   55  pwd
+   56  ls
+   57  ls
+   58  cd again
+   59  ls
+   60  pwd
+   61  mv practice.sql new_practice.py
+   62  mv new_practice.py new_practice.sql
+   63  mv new_practice.sql ../Practice
+   64  ls
+   65  pwd
+   66  ls
+   67  cd Practice
+   68  cd ../
+   69  ls
+   70  mkdir new_directory
+   71  ls
+   72  help
+   73  man cp
+   74  man
+   75  cp
+   76  ls -lh > file_list
+   77  cat file_list.txt
+   78  ls -lh >> file.list.txt
+   79  cat file_list.txt
+   80  cat words.txt
+   81  cat words.txt
+   82  sort < words.txt> sorted_words.txt
+   83  cat sorted_words.txt
+   84  ls -lh | less
+   85  cd
+   86  ls
+   87  cd c
+   88  cd C
+   89  cd Git_Bash
+   90  sh myscript.sh
+   91  sh myscript.sh
+   92  sh myscript.sh
+   93  sh myscript.sh
+   94  cd Practice
+   95  sh myscript.sh
+   96  history > history_command.txt
+   97  cat history
+   98  cat history.txt
+   99  history > history_command.txt
